@@ -19,4 +19,4 @@ If NMap helps you or your team develop great software please [let me know](mailt
 License & Copyright
 --------
 
-This software is released under the GNU Lesser GPL. It is Copyright 2011, Ben Aston. I may be contacted at ben@bj.ma.
+This software is released under the GNU Lesser GPL. It is Copyright 2012, Ben Aston. I may be contacted at ben@bj.ma.
