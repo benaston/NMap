@@ -1,7 +1,7 @@
 NMap
 ====
 
-A library to simplify the API for type creation and mapping.
+A library to simplify type creation and mapping whilst maintaining loose coupling.
 
 Example of use:
 
