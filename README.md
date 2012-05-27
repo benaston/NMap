@@ -10,7 +10,6 @@ Example of use:
 
 	var complexObject = new ObjectCreator().CreateFrom<SimpleObject, IComplexObject, ComplexObject>(simpleObject, factory);
 
-
 ```
 
 If NMap helps you or your team develop great software please [let me know](mailto:ben@bj.ma "Ben's email address")! It will help motivate me to develop and improve NMap.
